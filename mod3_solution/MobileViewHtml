@@ -28,3 +28,12 @@ Beef: Beef is the culinary name for meat from cattle (Bos taurus). Beef can be p
       In prehistoric times, humankind hunted aurochs and later domesticated them. Since that time, numerous breeds of cattle have been bred specifically for the quality or 
       quantity of their meat. Today, beef is the third most widely consumed meat in the world, after pork and poultry. As of 2018, the United States, Brazil, and China were 
       the largest producers of beef. Some religions and cultures prohibit beef consumption, especially Indian religions like Hinduism. Buddhists are also against animal slaughtering, but they do not have a wrongful eating doctrine.</p>
+
+
+<script>
+showMenu = false;
+
+toggleMenu(){
+this.showMenu = !this.showMenu;
+}
+</script>
