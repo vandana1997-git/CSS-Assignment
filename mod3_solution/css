@@ -1,0 +1,25 @@
+.navbar{
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.content{
+  height: 1500px;
+}
+@media (min-width: 768px){
+  .navbar {
+    position: relative;
+    width: 100%;
+  }
+}
+@media (max-width:767px){
+  .navbar {
+    display: none;
+  }
+  .visible-xs {
+    display: block;
+  }
+}
